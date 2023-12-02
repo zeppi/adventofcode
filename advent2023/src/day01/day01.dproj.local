@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/01 19:18:25.000.564,C:\Users\gdami\Documents\Sandbox\adventofcode\advent2023\src\day01\day01.dproj=C:\Users\gdami\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/12/01 19:20:33.000.791,=C:\Users\gdami\Documents\Sandbox\adventofcode\advent2023\src\day01\New1.txt</Transaction>
+    <Transaction>2023/12/01 19:20:54.000.955,C:\Users\gdami\Documents\Sandbox\adventofcode\advent2023\inputs\day01\input.txt=C:\Users\gdami\Documents\Sandbox\adventofcode\advent2023\src\day01\New1.txt</Transaction>
+  </Transactions>
+</BorlandProject>
